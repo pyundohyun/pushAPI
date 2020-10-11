@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;gs-testing-web-complete/src/resources/testp-513a3-firebase-adminsdk-8i1q3-adde4b33a8.json&apos; to &apos;pushJson.json&apos;" description="Rename resource &apos;testp-513a3-firebase-adminsdk-8i1q3-adde4b33a8.json&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/resources/testp-513a3-firebase-adminsdk-8i1q3-adde4b33a8.json" name="pushJson.json" stamp="1601801071052" updateReferences="true"/>
+</session>
